@@ -16,7 +16,7 @@ zsieve is a high-performance Rust program designed to analyze the relationship b
 - **Performance**:
   Optimized for high-performance computation, capable of processing large datasets of primes and zeta zeros efficiently.
   
-## Cacluated First 200 primes at 1e-6
+## Cacluated primes from the first 200 zeta zeros at 1e-6
 
 | Prime Number     | Tangent    | Cosine     | Sine       | Angle (rad) | Zeta Zero   | Difference  |
 |------------------|------------|------------|------------|-------------|-------------|-------------|
