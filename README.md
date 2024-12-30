@@ -2,6 +2,8 @@
 
 zsieve is a high-performance Rust program designed to analyze the relationship between prime numbers and the nontrivial zeros of the Riemann zeta function. It utilizes trigonometric and Fourier analysis to uncover resonance patterns, periodicities, and relationships that offer insights into the distribution of primes and their connection to zeta zeros.
 
+Based on this research: https://github.com/gddisney/RH-Zeta-Prime
+
 ## Features
 
 - **Prime-Zeta Zero Mapping**:
